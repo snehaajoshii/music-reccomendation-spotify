@@ -17,11 +17,11 @@ client_credentials.py: Helper module to obtain Spotify access token.
 get_playlist_data.py: Retrieves trending playlist data using the Spotify API.
 recommendations.py: Contains functions for content-based and hybrid recommendations.
 
-###Functionality
+### Functionality
 Content-Based Filtering: Recommends songs based on the similarity of music features (e.g., danceability, energy) to a given input song.
 Hybrid Recommendations: Combines content-based recommendations with a weighted popularity score, considering the release date of the song.
 
-###Notes
+### Notes
 This project assumes access to the Spotify API. Ensure you have the required permissions and API access.
 Adjust the playlist ID and access token in main.py for testing with different playlists.
 
