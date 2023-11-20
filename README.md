@@ -1,4 +1,4 @@
-# music-reccomendation-spotify
+# music-recommendation-spotify
  Music Recommendation System to discovere new and relevant musical content based on preferences and listening behaviour.
 
 #### Before running the application, make sure you have the following:
